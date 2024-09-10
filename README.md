@@ -1,22 +1,22 @@
 sonia-mouhoubi/README.md
 
-Hello, je suis Sonia, bienvenue sur mon github ! 
+Bonjour à tous et bienvenue sur mon github ! 
 
-Étudiante en développement web (et en recherche d'alternance), vous trouverez des projets sur mon repo que j'ai fait avec plaisir et passion !  
+Passionnée par la création d'application web et mobile, vous trouverez des projets sur mon repo que j'ai fait avec plaisir et passion !  
 
-En ce moment : 
-
-- j'apprends à créer des API
-- je me forme sur : reactJS, react native, NodeJS, Express, MongoDB, Symphony
-
-Technos et outils : 
+Technos : 
 
 - HTML 
 - CSS
-- PHP 
+- React
+- React Native 
 - JS
+- NodeJS
+- Express
+- MongoDB
+- PHP
 - MySQL
-- VSCode 
+
 
 Contact : 
 - soniamouhoubi13@gmail.com
